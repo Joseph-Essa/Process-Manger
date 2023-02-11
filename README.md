@@ -23,12 +23,12 @@ Develop and application for Mange process:
 ---
 -List all & specific user process :-
 ---
-![](https://github.com/Joseph-Essa/Process-Manger/blob/main/Gifs/list)
+![](https://github.com/Joseph-Essa/Process-Manger/blob/main/Gifs/list.gif)
 
 ---
 -Run/stop a specific process :-
 ---
-![](https://github.com/Joseph-Essa/Process-Manger/blob/main/Gifs/run&kill)
+![](https://github.com/Joseph-Essa/Process-Manger/blob/main/Gifs/run&kill.gif)
 
 ---
 ### Tools
