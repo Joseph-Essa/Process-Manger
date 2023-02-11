@@ -25,7 +25,8 @@ Develop and application for Mange process:
 ---
 ![](https://github.com/Joseph-Essa/Process-Manger/blob/main/Gifs/list)
 
-- Run/stop a specific process :-
+---
+-Run/stop a specific process :-
 ---
 ![](https://github.com/Joseph-Essa/Process-Manger/blob/main/Gifs/run&kill)
 
@@ -35,8 +36,7 @@ Develop and application for Mange process:
 - Java
 
 ----
-### Note : 
-----
-- The program run on linux only
+### Note : The program run on linux only
+
 
 
