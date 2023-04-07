@@ -1,5 +1,6 @@
 # Process-Manger
-Mange process in oprating system 
+
+- Mange process in oprating system 
 ----
 
 ### Table of Contents
@@ -31,12 +32,12 @@ Run/stop a specific process :-
 ![](https://github.com/Joseph-Essa/Process-Manger/blob/main/Gifs/run&kill.gif)
 
 ---
-### Tools
+## Tools
 ----
 - Java
 
 ----
-### Note : 
+## Note : 
 
 The program run on linux only
 
