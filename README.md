@@ -1,6 +1,7 @@
 # Process-Manger
 Mange process in oprating system 
 ----
+
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
@@ -20,13 +21,12 @@ Develop and application for Mange process:
 
 ---
 
----
--List all & specific user process :-
+List all & specific user process :-
 ---
 ![](https://github.com/Joseph-Essa/Process-Manger/blob/main/Gifs/list.gif)
 
 ---
--Run/stop a specific process :-
+Run/stop a specific process :-
 ---
 ![](https://github.com/Joseph-Essa/Process-Manger/blob/main/Gifs/run&kill.gif)
 
@@ -36,7 +36,9 @@ Develop and application for Mange process:
 - Java
 
 ----
-### Note : The program run on linux only
+### Note : 
+
+The program run on linux only
 
 
 
